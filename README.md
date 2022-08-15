@@ -362,7 +362,7 @@ Alternatively you can stay with manual deployment and trigger it whenever you ma
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## Please help us improve by providing your feedback
-[Feedback link](https://eventbox.dev/survey/HE7G1FV)
+[Feedback link](https://github.com/teddyaryono/dotc-devlab-anz-2022/blob/main/README.md)
 
 Thanks for completing a lab, hope you had fun!
 We really appreciate your feedback and would love to hear about what you loved and what we can improve.
