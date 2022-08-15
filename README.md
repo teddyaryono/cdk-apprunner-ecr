@@ -18,7 +18,6 @@ Estimated time: 15 minutes
 
 Lab level: 200
 
-[Feedback link](https://eventbox.dev/survey/HE7G1FV)
 
 ## Learning Outcomes:
 * Learn how App Runner can help developers to deploy applications easily hosted on cloud.
